@@ -1,0 +1,13 @@
+.bgLogin
+{
+  width: 400px;
+  border: 2px solid black;
+  border-radius: 5%;
+  margin: auto;
+}
+
+.table-fixed thead th {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+}
